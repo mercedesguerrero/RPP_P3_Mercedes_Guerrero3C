@@ -1,0 +1,12 @@
+{
+    "name": "mechu/rpp_p3_mercedes_guerrero3c",
+    "authors": [
+        {
+            "name": "mercedesguerrero",
+            "email": "m.mercedesguerrero@gmail.com"
+        }
+    ],
+    "require": {
+        "slim/slim": "4.*"
+    }
+}
